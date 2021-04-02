@@ -1,0 +1,16 @@
+C:\Users\quida\IntroToProgramming\SelectionTask\bin\Debug\net5.0\SelectionTask.exe
+C:\Users\quida\IntroToProgramming\SelectionTask\bin\Debug\net5.0\SelectionTask.deps.json
+C:\Users\quida\IntroToProgramming\SelectionTask\bin\Debug\net5.0\SelectionTask.runtimeconfig.json
+C:\Users\quida\IntroToProgramming\SelectionTask\bin\Debug\net5.0\SelectionTask.runtimeconfig.dev.json
+C:\Users\quida\IntroToProgramming\SelectionTask\bin\Debug\net5.0\SelectionTask.dll
+C:\Users\quida\IntroToProgramming\SelectionTask\bin\Debug\net5.0\ref\SelectionTask.dll
+C:\Users\quida\IntroToProgramming\SelectionTask\bin\Debug\net5.0\SelectionTask.pdb
+C:\Users\quida\IntroToProgramming\SelectionTask\obj\Debug\net5.0\SelectionTask.csprojAssemblyReference.cache
+C:\Users\quida\IntroToProgramming\SelectionTask\obj\Debug\net5.0\SelectionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quida\IntroToProgramming\SelectionTask\obj\Debug\net5.0\SelectionTask.AssemblyInfoInputs.cache
+C:\Users\quida\IntroToProgramming\SelectionTask\obj\Debug\net5.0\SelectionTask.AssemblyInfo.cs
+C:\Users\quida\IntroToProgramming\SelectionTask\obj\Debug\net5.0\SelectionTask.csproj.CoreCompileInputs.cache
+C:\Users\quida\IntroToProgramming\SelectionTask\obj\Debug\net5.0\SelectionTask.dll
+C:\Users\quida\IntroToProgramming\SelectionTask\obj\Debug\net5.0\ref\SelectionTask.dll
+C:\Users\quida\IntroToProgramming\SelectionTask\obj\Debug\net5.0\SelectionTask.pdb
+C:\Users\quida\IntroToProgramming\SelectionTask\obj\Debug\net5.0\SelectionTask.genruntimeconfig.cache
