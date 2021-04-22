@@ -1,7 +1,0 @@
-FOR X = 1 TO 100
-    IF X MODULUS 3 = 0 AND X MODULUS 5 = 0
-        PRINT FizzBuzz
-    ELSE IF X MODULUS 3 = 0 
-        PRINT Fizz
-    ELSE IF X MODULUS 5 = 0
-        PRINT Buzz
